@@ -1,5 +1,25 @@
 New Website Todo:
 
+ ☐ Add SASS preprocessor for css handling
+ ☐ Add a JS compiler (webpack...?)
+ ☐ Set up AWS
+
+ ☐ Split up the HTML and use imports feature to build html to avoid repeating code.
+
+Layout:
+  ☐ Layout.css
+    ☐ colors
+    ☐ fonts
+    ☐ stucture
+  ☐ Header
+    ☐ header.css
+  ☐ Navbar
+    ☐ navbar.css
+  ☐ Content
+    ☐ content.css
+  ☐ Footer
+    ☐ footer.css
+
 Content:
   ☐ Home
     ☐ Navbar
