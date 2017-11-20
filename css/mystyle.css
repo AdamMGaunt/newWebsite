@@ -1,0 +1,148 @@
+
+/*Royal Purple
+    color:#5c297a;
+*/
+
+/*
+
+#5C297A // Royal Purple
+#FE5F55 // Pale Red
+#F7F7FF // Pink Blue
+#BDD5EA // Grey Blue
+#577399 // Grey Purple
+
+*/
+
+/*Electric Lime
+    background-color:#15d303;
+*/
+
+.container {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+footer {
+    /*background-color: rgba(0,200,0,0.75);*/
+    /*background-color:#15d303;*/
+    padding: 64px 32px;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+}
+/* Links */
+a {
+    color:#5c297a;
+}
+a:hover {
+    color: #FE5F55;
+}
+a:active {
+    color: #577399;
+}
+a:focus {
+    text-decoration: none;
+}
+
+/* Buttons
+.btn.btn-primary {
+    background-color:#5c297a;
+}
+.btn.btn-primary:hover {
+    background-color: #FE5F55;
+}
+.btn.btn-primary:active {
+    background-color: #FE5F55;
+}
+.btn.btn-primary:focus {
+    text-decoration: none;
+}
+*/
+.gap {
+    margin-top: 40px;
+}
+.carousel {
+    background-color: rgba(0,0,0,0.6);
+}
+/* add media queries to the height and width to match smaler sizes */
+.carousel > .carousel-inner {
+    max-width: 1200px;
+    max-height: 800px;
+    margin: 0 auto;
+}
+.jumbotron {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.feature-item {
+    margin-bottom: 1rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 3px 5px rgba(0,0,0,0.2);
+}
+.person-img {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.image-circle {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+}
+.person-content {
+    display: inline-block;
+}
+
+/* Removes underline on options */
+.item a:focus {
+    text-decoration: none;
+}
+
+/* colors */
+.bg-grey {
+    background-color: #e9ecef;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-bottom: 0;
+}
+.bg-green {
+    background-color:#15d303;
+    color: #fff;
+}
+.btn-primary {
+    background-color:#5c297a;
+}
+
+.center {
+    text-align: center;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.skull {
+    max-width: 75px;
+    height: auto;
+}
+.skull-lg {
+    max-width: 150px;
+    height: auto;
+}
+
+/* buttons */
+.option {
+    margin-bottom: 1rem;
+}
+
+/* Portfolio Fade */
+#fade {
+    margin: 0 auto;
+}
+#fade > div {
+    background-color: #fff;
+}
+

@@ -1,0 +1,40 @@
+New Website Todo:
+
+Content:
+  ☐ Home
+    ☐ Navbar
+      ☐ Logo
+      ☐ Favicon
+      ☐ Menu
+    ☐ Carousel
+      ☐ Feature image 1
+      ☐ Feature image 2
+      ☐ Feature image 3
+  ☐ About
+    ☐ backstory
+    ☐ Selfie
+      ☐ Illustration...
+    ☐ Familiar codding languages
+    ☐ LinkedIn
+    ☐ Instagram/Blog
+  ☐ Portfolio Items
+    ☐ Games
+      ☐ Crossword
+      ☐ Wordsearch
+      ☐ Slide Puzzle
+    ☐ Websites
+      ☐ CCI Wireless Website
+      ☐ Chrono Website
+      ☐ LCN Website
+    ☐ Illustration
+  ☐ Contact
+    ☐ php email
+    ☐ Rechaptcha
+    ☐ Commision work
+    ☐ Testimonials
+    ☐ Trusted Clients
+
+Functionality:
+  ☐ Google analytics
+  ☐ Email form handling
+  ☐ portfolio sorting js
